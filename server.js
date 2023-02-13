@@ -13,6 +13,10 @@ const rappers = {
     'dylan': {
         'name': 'dgderrde graham',
         'age': '30'
+    },
+    'travis': {
+        'name': 'jac webster',
+        'age': 'shiiid ion know'
     }
 }
 
